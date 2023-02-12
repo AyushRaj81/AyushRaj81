@@ -11,6 +11,7 @@
 
 - Exploratory data analysis (EDA) [Anlysis](https://jovian.com/ayushraj21042002/sales-anlysis)
 - I am currently learning **Machine learning**
+- Ask me about C++, Python, SQL, DBMS,Excel, tableu, PowerBI
 - 👨‍💻 All of my projects are available at [https://github.com/AyushRaj81?tab=repositories](https://github.com/AyushRaj81?tab=repositories)
 
 - 📫 How to reach me **ayushraj21042002@gmail.com**

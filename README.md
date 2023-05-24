@@ -13,7 +13,7 @@
 - I am currently learning **Machine learning**
 - Ask me about C++, Python, SQL, DBMS,Excel, tableu, PowerBI
 - 👨‍💻 All of my projects are available at [https://github.com/AyushRaj81?tab=repositories](https://github.com/AyushRaj81?tab=repositories)
-
+- To Read my BLOGS Please visit : https://find-job-internship-experience.blogspot.com/
 - 📫 How to reach me **ayushraj21042002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

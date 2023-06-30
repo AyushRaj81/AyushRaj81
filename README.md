@@ -1,6 +1,8 @@
 ![logo](https://www.iiba.org/globalassets/iiba-analyst-catalyst/images/here-is-some-information-about-what-a-big-data-analyst-is-and-does-social.jpg)
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">Passionate About Data And To Analyse It.</h3>
+<a href="https://ayushraj81.github.io/Ayush-portfolio/" class="button">Visit my Portfolio Website</a>
+
 
  
 
@@ -9,7 +11,7 @@
 
 
 
-- <h1>Visit my Portfolio Website [Click Here](https://ayushraj81.github.io/Ayush-portfolio/)</h1> 
+- Visit my Portfolio Website [Click Here](https://ayushraj81.github.io/Ayush-portfolio/)
   
 - Dashboard in powerBI [Covid dataset](https://app.powerbi.com/view?r=eyJrIjoiYTFlZTE1NGYtYjIzZS00OGM5LWE0MjEtZWYxODEzNTcxMDUwIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
 

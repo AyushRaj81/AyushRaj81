@@ -3,12 +3,12 @@
 <h3 align="center">Passionate About Data And To Analyse It.</h3>
 
  
-<img align="right"alt="banner" width="400" src="https://i0.wp.com/www.yellowfinbi.com/assets/files/2019/05/planning-4077086_1280.jpg?fit=1200%2C628&ssl=1">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushraj81&label=Profile%20views&color=0e75b6&style=flat" alt="ayushraj81" /> </p>
 
 - Dashboard in powerBI [Covid dataset](https://app.powerbi.com/view?r=eyJrIjoiYTFlZTE1NGYtYjIzZS00OGM5LWE0MjEtZWYxODEzNTcxMDUwIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
-
+- Visit my Portfolio Website  [Click Here](https://ayushraj81.github.io/Ayush-portfolio/)
 
 
 - Exploratory data analysis (EDA) [Anlysis](https://jovian.com/ayushraj21042002/sales-anlysis)

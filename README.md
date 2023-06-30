@@ -1,7 +1,12 @@
 ![logo](https://www.iiba.org/globalassets/iiba-analyst-catalyst/images/here-is-some-information-about-what-a-big-data-analyst-is-and-does-social.jpg)
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">Passionate About Data And To Analyse It.</h3>
-<a href="https://ayushraj81.github.io/Ayush-portfolio/" class="button">Visit my Portfolio Website</a>
+<a href="https://ayushraj81.github.io/Ayush-portfolio/" class="button" style="display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px; " >Visit my Portfolio Website</a>
 
 
  

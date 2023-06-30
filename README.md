@@ -7,9 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushraj81&label=Profile%20views&color=0e75b6&style=flat" alt="ayushraj81" /> </p>
 
-- Dashboard in powerBI [Covid dataset](https://app.powerbi.com/view?r=eyJrIjoiYTFlZTE1NGYtYjIzZS00OGM5LWE0MjEtZWYxODEzNTcxMDUwIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
-- Visit my Portfolio Website  [Click Here](https://ayushraj81.github.io/Ayush-portfolio/)
 
+
+- <h1>Visit my Portfolio Website</h1>  [Click Here](https://ayushraj81.github.io/Ayush-portfolio/)
+  
+- Dashboard in powerBI [Covid dataset](https://app.powerbi.com/view?r=eyJrIjoiYTFlZTE1NGYtYjIzZS00OGM5LWE0MjEtZWYxODEzNTcxMDUwIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
 
 - Exploratory data analysis (EDA) [Anlysis](https://jovian.com/ayushraj21042002/sales-anlysis)
 - I am currently learning **Machine learning**
